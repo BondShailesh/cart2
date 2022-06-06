@@ -1,0 +1,37 @@
+.navbar{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.brandcat{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbarItem{
+    margin: 7px;
+}
+.logo{
+
+    margin-right: 45px;
+    margin-left: 3px;
+}
+.signup{
+    margin: auto 84px;
+}
+.footer{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+   height: 300px;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   background-color: red;
+   word-wrap: break-word;
+}
+.socialmediaIcon{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
