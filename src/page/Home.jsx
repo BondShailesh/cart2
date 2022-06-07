@@ -2,18 +2,19 @@ import React from 'react'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import Caurosel from './Carousels'
+import Products from './Products'
 
 function Home() {
   return (
     <div>
-    <div>
+    {/* <div>
      <Navbar/>
-      </div>
+      </div> */}
      
        <div>
         <Caurosel/>
        </div>
-
+       <Products/>
        <div>
            <Footer/>
        </div>

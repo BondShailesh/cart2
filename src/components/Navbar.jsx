@@ -1,8 +1,11 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { Search2Icon} from '@chakra-ui/icons';
 import { BsFillCartFill } from "react-icons/bs";
 import styles from "../page/cart.module.css"
+import { Context } from '../context/ContextProd';
 function Navbar() {
+  const { cartitem } = useContext(Context);
+
   return (
     <div className={styles.navbar}>
         <div className={styles.brandcat}>
@@ -19,6 +22,7 @@ function Navbar() {
         <p className={styles.signup}>Sign Up</p>
        <Search2Icon className={styles.navbarItem}/>
        <BsFillCartFill className={styles.navbarItem}/>
+       <h2>{cartitem}</h2>
        </div>
     </div>
   )

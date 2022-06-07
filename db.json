@@ -1,0 +1,30 @@
+{
+  "posters": [
+    {"id":1, "img":"https://m.media-amazon.com/images/I/61NhAcNBC+L._AC_UL320_.jpg",
+    "name":"Sholay","actor":"Amitabh Bachchan","year":1975},
+    {"id":2, "img":"https://m.media-amazon.com/images/I/515AXN2B2dL._AC_UL320_.jpg",
+    "name":"Spider Man","actor":"TOM Holland","year":2002},
+    {"id":3, "img":"https://m.media-amazon.com/images/I/61Uo7t6eZfL._AC_UL320_.jpg",
+    "name":"Wolf Of The Wall Streat","actor":"Leonardo Dicaprio","year":2013},
+    {"id":4, "img":"https://m.media-amazon.com/images/I/61o0u7YiTOL._AC_UL320_.jpg",
+    "name":"Pursuit Of Happiness","actor":"Will Smith","year":2013},
+    {"id":5, "img":"https://m.media-amazon.com/images/I/61Z8KsCcOzL._AC_UL320_.jpg",
+    "name":"Joker","actor":"Joaquin Phoenix","year":2019},
+    {"id":6, "img":"https://m.media-amazon.com/images/I/61jDsQrXfMS._AC_UL320_.jpg",
+    "name":"The God Father","actor":"Al Pacino","year":1972},
+    {"id":7, "img":"https://m.media-amazon.com/images/I/819TOAlb2AL._AC_UL320_.jpg",
+    "name":"Fight Club","actor":"Brad Pitt","year":1999},
+    {"id":8, "img":"https://m.media-amazon.com/images/I/51hghw+XelL._AC_UL320_.jpg",
+    "name":"Deewar","actor":"Amitabh Bachchcan","year":1975},
+    {"id":9, "img":"https://m.media-amazon.com/images/I/615Bf9SpMbS._AC_UL320_.jpg",
+    "name":"Top Guns","actor":"Top Cruise","year":1986},
+    {"id":10, "img":"https://m.media-amazon.com/images/I/51I9tUCv2EL._AC_UL320_.jpg",
+    "name":"Inception","actor":"Leonardo DeCaprio","year":2010},
+    {"id":11, "img":"https://m.media-amazon.com/images/I/61QNCx6fshL._AC_UL320_.jpg",
+    "name":"Good Hope","actor":"Siya Kolis","year":2019},
+    {"id":12, "img":"https://m.media-amazon.com/images/I/81OLh9vDvIL._AC_UL320_.jpg",
+    "name":"The Shawshank Redemption","actor":"Morgan Freeman","year":1994}
+
+  ]
+ 
+}
